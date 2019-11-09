@@ -1,0 +1,6 @@
+{"message":"Name is required","level":"error"}
+{"message":"Name is required","level":"error"}
+{"message":"Name is required","level":"error"}
+{"message":"Card with id 7abbc8c3-82bf-4675-984f-b788a4544bc4 created","level":"info"}
+{"message":"Bookmark with id 7abbc8c3-82bf-4675-984f-b788a4544bc4 deleted","level":"info"}
+{"message":"Bookmark with id abdc not found.","level":"error"}
